@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+<link rel="stylesheet" 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bike Tours</title>
+</head>
+<style>body{ 
+    background-image:  url("https://cdn.pixabay.com/photo/2015/04/29/12/02/leipzig-745365_1280.jpg");
+ ;
+
+} 
+h1 {
+padding-top: 10px;
+padding-right: 100px;
+padding-bottom: 10px;
+padding-left: 0px;
+background: rgba(0, 23, 0, 0.3);
+text-align: justify;
+text-align: center;
+letter-spacing: 4px;
+text-shadow: 2px 4px 9px green;
+font-family: "Sofia";
+
+} 
+p {
+color: white;
+text-align: center;
+letter-spacing: 3px;
+padding-top: 10px;
+padding-right: 100px;
+padding-bottom: 10px;
+padding-left: 0px;
+background: rgba(0, 128, 0, 0.3);
+color: white;
+}
+H3 {
+color: rgba(0,0, 0, 0.9);
+text-align: center;
+letter-spacing: "1px;
+padding-top: 10px;
+padding-right: 100px;
+padding-bottom: 10px;
+padding-left: 0px;
+background: rgba(700, 700,700, 0.7);
+font-family: "TIMES NEW ROMAN";
+border-style: double;
+ text-shadow: 2px 4px 9px red;
+}
+table, td, th {
+border: 1px solid black;
+}
+table {
+width: 100%;
+}
+th, td {
+border-bottom: 5px solid brown;
+background-color: rgba(649, 768, 977, 0.6);
+padding left: 15px;
+padding right: 60px;
+text-align: center;
+font-family: "courier";
+}
+
+      figure {
+          height: 200px;
+          border: 7px solid green;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+}  </style>
+<body> 
+    <h1>| Free Tours Leipzig | Private Tours Leipzig | Info | Meeting Point | Contact +491545474777 📞 | </h1> 
+  <h2> 
+  <img width="200px" scr="https://cdn.pixabay.com/photo/2017/; "; image-repeat: repeat-y; </h2>
+    
+
+  
+  
+ 
+    <img height="200px"src="https://cdn.pixabay.com/photo/2018/05/31/19/34/cycle-path-3444914_1280.jpg" alt="">
+    <p>There is no better way to explore Leipzig than a guided bike tour. Our passionate guides take you on a thrilling tour around the city.
+Bring your own bike or rent the one that we offer and enjoy History, Arquitecture, Nature and a friendly stuff.
+        
+    </p>
+  <p> Booking - Just send us your email and we respond you inmidietly 
+​<input type="google" id="search" name="search">
+      <h2>  <table>
+
+</style>
+</head>
+<body>
+
+<h3>🚲🚲🚲🚲OUR TOURS🚲🚲🚲🚲</h3>
+<p></p>
+<table>
+  <tr>
+    <th>TOUR NAME</th>
+    <th>WHAT WE VISIT?</th>
+    <th>HOW LONG? MEETING POINT</th>
+  </tr>
+  <tr>
+    <td>HISTORICAL TOUR</td>
+    <td>CITY CENTER, MONUMENTS, ARQUITECTURE</td>
+    <td>3H AUGUSTUS PLATZ</td>
+  </tr>
+  <tr>
+    <td>DISTRICT TOUR</td>
+    <td>CONNEWITZ, REUDNITZ, PLAGWITZ</td>
+    <td>4H REDBULL ARENA</td>
+  </tr>
+  <tr>
+    <td>NATURAL TOUR</td>
+    <td>LAKES, PARKS, RIVER</td>
+    <td>5H CLARA PARK</td>
+  </tr>
+  <tr>
+    <td>HALLE DAY TOUR</td>
+    <td>LEIPZIG HALLE LEIPZIG</td>
+    <td>8H HBF 8AM</td>
+ 
+    
+  
+  </tr>
+</table> </h3>
+    <h4>
+  <figure> 
+<iframe width="400" height="200" src="https://www.youtube.com/embed/ibYL7rkmOEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </figure>
+     </h4>
